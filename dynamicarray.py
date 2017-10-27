@@ -13,6 +13,10 @@
 # len(arr)
 # sys.getsizeof(arr) # Note how the bytes taken by the array increases.
 
+# Conclusion:
+# This explains that when arrays get full they double in size and 
+# hence increasing the no. of bytes occupied
+
 import ctypes
 
 class DynamicArray(object):
