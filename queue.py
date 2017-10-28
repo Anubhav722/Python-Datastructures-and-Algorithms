@@ -16,7 +16,7 @@ class Queue(object):
 		"""
 		Assuming the rear is at the 0th index of the list.
 		"""
-		self.items.inset(0, item)
+		self.items.insert(0, item)
 
 	def dequeue(self):
 		"""
