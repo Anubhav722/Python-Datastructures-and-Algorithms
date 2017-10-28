@@ -1,4 +1,5 @@
 # Stack follows LIFO (Last In First Out). The first element is called base and last is called top.
+# Addition and removal of the elements happens from the top.
  # you can access any element in an array--not 
  # true for a stack, since you can only deal with the element at its top.
  # Further details here: 
